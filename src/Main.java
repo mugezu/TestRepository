@@ -6,6 +6,5 @@ public class Main {
         Runnable a= new Threarrrr();
         Thread b= new Thread(a);
         b.start();
-      //  d.start();
     }
 }
