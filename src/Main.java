@@ -5,6 +5,6 @@ public class Main {
     public static void main(String[] args) {
         Runnable a= new Threarrrr();
         Thread b= new Thread(a);
-        b.start();
+      //  b.start();
     }
 }
